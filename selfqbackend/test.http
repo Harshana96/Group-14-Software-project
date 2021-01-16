@@ -1,0 +1,10 @@
+ http://localhost:4000/app/singup
+Content-Type: application/json
+
+{
+    
+    "fullName":"harshana",
+    "username":"harshanamj",
+    "email":"harshanajayathissa227@gmail.com",
+    "password":"123456"
+}
